@@ -20,7 +20,7 @@ Professional Experiences
   * Considered a tree network structure on the basis of distributed network.Proved that the tree network structure can effectively reduce the communication cost and reduce the influence of stragglers.Considered the minimum delay and minimum energy loss in a heterogeneous network with multiple base stations and multiple edge servers
   * Build a distributed computing architecture on amazon EC2 and conduct relevant experiments
   * Plan to finish the paper in March
-
+<br/>
 
 * March 2019 -- June 2019: Run machine learning experiments on lab servers   Tsinghua University
   * Advisor: PhD Candidate [Xiufeng Huang](http://network.ee.tsinghua.edu.cn/niulab/?p=3649)
