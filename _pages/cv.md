@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-##Education
+## Education
 
 * Augest 2017 - present Tingshua University 
 
-##Professional Experiences
+## Professional Experiences
 
 * July 2019 -- present: [**Edge learning and Edge coding**](http://network.ee.tsinghua.edu.cn/niulab/)  Tsinghua University
   * Advisor: Professor [Sheng Zhou](http://network.ee.tsinghua.edu.cn/shengzhou/)
@@ -25,7 +25,7 @@ redirect_from:
   * Advisor: PhD Candidate [Xiufeng Huang](http://network.ee.tsinghua.edu.cn/niulab/?p=3649)
   * Considered distributed systems with multi-user machine learning tasks.My main job was to implement machine learning code on the GPU in the lab
   
-##Extracurricular Activities and Competitions
+## Extracurricular Activities and Competitions
 
 * Augest 2017 -- July 2018: **Member of Student Association for Science and Technology** 
   * Organized and participated in a number of technological innovation events, including the 18th technological innovation competition and the first hackathon
@@ -42,7 +42,7 @@ redirect_from:
   * Write code to control the robot to avoid obstacles, cross the gully, identify traps and identify traffic lights.Simultaneously control the robot's steering gear to adjust the motion
   * Won the 3'rd Place Award and the Best Performance Award
 
-##Skills
+## Skills
 
 * Programming Languages
   * Python, C/C++, MATLAB, Verilog, Go, HTML
