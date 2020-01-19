@@ -17,7 +17,7 @@ redirect_from:
 
 * July 2019 -- present: [**Edge learning and Edge coding**](http://network.ee.tsinghua.edu.cn/niulab/)  Tsinghua University
   * Advisor: Professor [Sheng Zhou](http://network.ee.tsinghua.edu.cn/shengzhou/)
-  * Considered a tree network structure on the basis of distributed network.Proved that the tree network structure can effectively reduce the communication cost and reduce the influence of stragglers.Considered the minimum delay and minimum energy loss in a heterogeneous network with multiple base stations and multiple edge servers
+  * Considered network structure on the basis of distributed network.Proved that special network structure can effectively reduce the communication cost and reduce the influence of stragglers.Considered the minimum delay and minimum energy loss in a heterogeneous network with multiple base stations and multiple edge servers
   * Build a distributed computing architecture on amazon EC2 and conduct relevant experiments
   * Plan to finish the paper in March
 
