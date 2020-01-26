@@ -40,7 +40,7 @@ redirect_from:
   * Won the 3'rd Place Award and the Best Performance Award
 
 
-## Extracurricular Activities and Competitions
+## Extracurricular Activities
 
 * Augest 2017 -- July 2018: **Member of Student Association for Science and Technology** 
   * Organized and participated in a number of technological innovation events, including the 18th technological innovation competition and the first hackathon
