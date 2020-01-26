@@ -24,11 +24,8 @@ redirect_from:
 * March 2019 -- June 2019: **Run machine learning experiments on lab servers**  Tsinghua University
   * Advisor: PhD Candidate [Xiufeng Huang](http://network.ee.tsinghua.edu.cn/niulab/?p=3649)
   * Considered distributed systems with multi-user machine learning tasks.My main job was to implement machine learning code on the GPU in the lab
-  
-## Extracurricular Activities and Competitions
-
-* Augest 2017 -- July 2018: **Member of Student Association for Science and Technology** 
-  * Organized and participated in a number of technological innovation events, including the 18th technological innovation competition and the first hackathon
+ 
+## Competitions and Awards
 
 * Augest 2018 -- December 2018: **Team leader of The 20th Electronic Design Competition**
   * Code on STM32 microcontroller to control the trolley.Use infrared sensor and ultrasonic device to aviod structure and use wifi system to abtain the location information from the host computer
@@ -41,6 +38,13 @@ redirect_from:
 * September 2019 -- December 2019: **Member of The Practice of Intelligent Robot Design**
   * Write code to control the robot to avoid obstacles, cross the gully, identify traps and identify traffic lights.Simultaneously control the robot's steering gear to adjust the motion
   * Won the 3'rd Place Award and the Best Performance Award
+
+
+## Extracurricular Activities and Competitions
+
+* Augest 2017 -- July 2018: **Member of Student Association for Science and Technology** 
+  * Organized and participated in a number of technological innovation events, including the 18th technological innovation competition and the first hackathon
+
 
 ## Skills
 
