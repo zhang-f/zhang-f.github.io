@@ -35,7 +35,7 @@ redirect_from:
 	* Consider how much more computing resources data coding consumes
  
  
- ## Competitions and Awards
+## Competitions and Awards
 
 * Augest 2018 -- December 2018: **Team leader of The 20th Electronic Design Competition**
   * Code on STM32 microcontroller to control the trolley.Use infrared sensor and ultrasonic device to aviod structure and use wifi system to abtain the location information from the host computer
