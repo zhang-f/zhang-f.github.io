@@ -30,7 +30,7 @@ redirect_from:
 	* Determine whether current defenses against centralized backdoor attacks are effective against federal backdoor attacks.
 
 * July 2020 -- present : [**Coded Computation across eterogeneous Workers**](http://network.ee.tsinghua.edu.cn/niulab/)  Tsinghua University
-  * Adivisor: PhD Candidate [Yuxuan Sun] (http://network.ee.tsinghua.edu.cn/niulab/?p=2578)
+  * Adivisor: PhD Candidate [Yuxuan Sun](http://network.ee.tsinghua.edu.cn/niulab/?p=2578)
 	* Consider introducing a queue system based on heterogeneous coded computation across heterogeneous workers
 	* Consider how much more computing resources data coding consumes
  
