@@ -33,8 +33,7 @@ redirect_from:
   * Adivisor: PhD Candidate [Yuxuan Sun](http://network.ee.tsinghua.edu.cn/niulab/?p=2578)
 	* Consider introducing a queue system based on heterogeneous coded computation across heterogeneous workers
 	* Consider how much more computing resources data coding consumes
- 
- 
+
 ## Competitions and Awards
 
 * Augest 2018 -- December 2018: **Team leader of The 20th Electronic Design Competition**
