@@ -34,6 +34,9 @@ redirect_from:
 	* Consider introducing a queue system based on heterogeneous coded computation across heterogeneous workers
 	* Consider how much more computing resources data coding consumes
 
+## Publications
+* Fan Zhang, Yuxuan Sun, Sheng Zhou, Coded Computation over Heterogeneous Workers with Random Task Arrivals, in IEEE Communications Letters, 2021.
+
 ## Competitions and Awards
 
 * Augest 2018 -- December 2018: **Team leader of The 20th Electronic Design Competition**
@@ -58,6 +61,6 @@ redirect_from:
 ## Skills
 
 * Programming Languages
-  * Python, C/C++, MATLAB, Verilog, Go, HTML
+  * Python, C/C++, MATLAB, Verilog, HTML
 * Tools and Frameworks
-  * LaTeX, PyTorch, TensorFlow, OpenCV, Keras
+  * LaTeX, PyTorch, TensorFlow, Keras
