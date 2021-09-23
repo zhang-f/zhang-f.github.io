@@ -45,9 +45,9 @@ redirect_from:
 	* Analyze the different importance of label and unlabel data in model stealing of semi-supervised learning
 
 ## Publications
-* Fan Zhang, Yuxuan Sun, Sheng Zhou, Coded Computation over Heterogeneous Workers with Random Task Arrivals, in IEEE Communications Letters, 2021.
+* Fan Zhang, Yuxuan Sun, Sheng Zhou, Coded Computation over Heterogeneous Workers with Random Task Arrivals, in **IEEE Communications Letters**, 2021.
 * Yuxuan Sun, Fan Zhang, Junlin Zhao, Sheng Zhou, Zhisheng Niu, Deniz Gunduz, Coded Computation across Shared Heterogeneous
-	Workers with Communication Delay, in IEEE Transactions on Signal Processing, 2021. In submission.
+	Workers with Communication Delay, in **IEEE Transactions on Signal Processing**, 2021. In submission.
 
 ## Competitions and Awards
 
