@@ -15,10 +15,6 @@ redirect_from:
 
 ## Professional Experiences
 
-* March 2019 -- June 2019: **Run machine learning experiments on lab servers**  Tsinghua University
-  * Advisor: PhD Candidate [Xiufeng Huang](http://network.ee.tsinghua.edu.cn/niulab/?p=3649)
-  * Considered distributed systems with multi-user machine learning tasks.My main job was to implement machine learning code on the GPU in the lab
-
 * July 2019 -- March 2020: [**Distributed Coded Computation and Edge Learning**](http://network.ee.tsinghua.edu.cn/niulab/)  Tsinghua University
   * Advisor: Professor [Sheng Zhou](http://network.ee.tsinghua.edu.cn/shengzhou/)
   * Considered network structure on the basis of distributed network.Proved that special network structure can effectively reduce the communication cost and reduce the influence of stragglers.Considered the minimum delay and minimum energy loss in a heterogeneous network with multiple base stations and multiple edge servers
@@ -30,12 +26,28 @@ redirect_from:
 	* Determine whether current defenses against centralized backdoor attacks are effective against federal backdoor attacks.
 
 * July 2020 -- present : [**Coded Computation across eterogeneous Workers**](http://network.ee.tsinghua.edu.cn/niulab/)  Tsinghua University
-  * Adivisor: PhD Candidate [Yuxuan Sun](http://network.ee.tsinghua.edu.cn/niulab/?p=2578)
+  * Advisor: PhD Candidate [Yuxuan Sun](http://network.ee.tsinghua.edu.cn/niulab/?p=2578)
 	* Consider introducing a queue system based on heterogeneous coded computation across heterogeneous workers
 	* Consider how much more computing resources data coding consumes
 
+* December 2020 -- June 2021: [**Coded computation across shared heterogeneous workers with communication delay**](http://network.ee.tsinghua.edu.cn/niulab/)  Tsinghua University
+  * Advisor: Professor [Sheng Zhou](http://network.ee.tsinghua.edu.cn/shengzhou/)
+	* Considering the randomness of communication and computation delays, we formulate a unified delay minimization problem for the joint allocation of computing 			power,communication bandwidth and task load
+	* Use Markov’s inequality to
+		simplify the problem, and transform the fractional worker
+		assignment and resource allocation problem to max-min allocation by deriving its optimality condition. A greedy algorithm
+		is proposed accordingly.
+
+* August 2021 -- Present: [**Stealing parameters from semi-supervised learning**]  Helmholtz Center for Information Security
+  * Advisor: Professor [Yang Zhang](https://yangzhangalmo.github.io/)
+	* Consider the influence of different steal methods on different semi-supervise learning
+	* Analyze the effects of data augmentation, loss function and data distributions on model stealing
+	* Analyze the different importance of label and unlabel data in model stealing of semi-supervised learning
+
 ## Publications
 * Fan Zhang, Yuxuan Sun, Sheng Zhou, Coded Computation over Heterogeneous Workers with Random Task Arrivals, in IEEE Communications Letters, 2021.
+* Yuxuan Sun, Fan Zhang, Junlin Zhao, Sheng Zhou, Zhisheng Niu, Deniz Gunduz, Coded Computation across Shared Heterogeneous
+	Workers with Communication Delay, in IEEE Transactions on Signal Processing, 2021. In submission.
 
 ## Competitions and Awards
 
