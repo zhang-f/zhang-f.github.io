@@ -38,7 +38,7 @@ redirect_from:
 		assignment and resource allocation problem to max-min allocation by deriving its optimality condition. A greedy algorithm
 		is proposed accordingly.
 
-* August 2021 -- Present: [**Stealing parameters from semi-supervised learning**]  Helmholtz Center for Information Security
+* August 2021 -- Present: **Stealing parameters from semi-supervised learning**  Helmholtz Center for Information Security
   * Advisor: Professor [Yang Zhang](https://yangzhangalmo.github.io/)
 	* Consider the influence of different steal methods on different semi-supervise learning
 	* Analyze the effects of data augmentation, loss function and data distributions on model stealing
