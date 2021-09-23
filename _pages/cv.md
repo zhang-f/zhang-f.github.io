@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-* Augest 2017 - present Tingshua University 
+* Augest 2017 - present Tsinghua University 
 
 ## Professional Experiences
 
