@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-* Augest 2017 - present Tsinghua University 
+* August 2017 - July 2021 Tsinghua University EE
 
 ## Professional Experiences
 
