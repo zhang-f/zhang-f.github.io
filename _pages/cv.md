@@ -47,7 +47,10 @@ redirect_from:
 ## Publications
 * Fan Zhang, Yuxuan Sun, Sheng Zhou, Coded Computation over Heterogeneous Workers with Random Task Arrivals, in **IEEE Communications Letters**, 2021.
 * Yuxuan Sun, Fan Zhang, Junlin Zhao, Sheng Zhou, Zhisheng Niu, Deniz Gunduz, Coded Computation across Shared Heterogeneous
-	Workers with Communication Delay, in **IEEE Transactions on Signal Processing**, 2021. In submission.
+	Workers with Communication Delay, in **IEEE Transactions on Signal Processing**, 2022.
+* Fan Zhang, Peng Liu, Protecting the 'Stop Using My Data' Right through Blockchain-assisted Evidence Generation, [Arxiv](https://arxiv.org/pdf/2406.17694)
+* Fan Zhang, Ziqi Zhang, Hossein Khalili, Neiro Cabrera, Jonathan Xue, Nader Sehatbakhsh, FILOsofer: A TEE-Shielded DNN Partitioning Framework Based on Fisher Information-Guided LoRA Obfuscation, In submission.
+* Hossein Khalili, Philip Do, Brandan Bright, Fan Zhang, Alexander Vilesov, Kittipat Apicharttrisorn, Nader Sehatbakhsh, Cloak of Invisibility: Real-Time Privacy-Preserving Volumetric Video Streaming, In submission.
 
 ## Competitions and Awards
 
@@ -63,16 +66,6 @@ redirect_from:
   * Write code to control the robot to avoid obstacles, cross the gully, identify traps and identify traffic lights.Simultaneously control the robot's steering gear to adjust the motion
   * Won the 3'rd Place Award and the Best Performance Award
 
-
-## Extracurricular Activities
-
-* Augest 2017 -- July 2018: **Member of Student Association for Science and Technology** 
-  * Organized and participated in a number of technological innovation events, including the 18th technological innovation competition and the first hackathon
-
-
-## Skills
-
-* Programming Languages
   * Python, C/C++, MATLAB, Verilog, HTML
 * Tools and Frameworks
   * LaTeX, PyTorch, TensorFlow, Keras
