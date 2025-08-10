@@ -7,25 +7,19 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-## Education
-
-* August 2017 - July 2021 Tsinghua University EE
-
 ## Professional Experiences
 
 * July 2019 -- March 2020: [**Distributed Coded Computation and Edge Learning**](http://network.ee.tsinghua.edu.cn/niulab/)  Tsinghua University
   * Advisor: Professor [Sheng Zhou](http://network.ee.tsinghua.edu.cn/shengzhou/)
-  * Considered network structure on the basis of distributed network.Proved that special network structure can effectively reduce the communication cost and reduce the influence of stragglers.Considered the minimum delay and minimum energy loss in a heterogeneous network with multiple base stations and multiple edge servers
-  * Build a distributed computing architecture on amazon EC2 and conduct relevant experiments
+  * Considered network structure on the basis of distributed network.Proved that special network structure can effectively reduce the communication cost and reduce the influence of stragglers. Considered the minimum delay and minimum energy loss in a heterogeneous network with multiple base stations and multiple edge servers
+  * Build a distributed computing architecture on Amazon EC2 and conduct relevant experiments.
 
 * June 2020 -- September 2020: **Difference between Federated backdoor and centralized backdoor** UChicago
   * Advisor: Neubauer Professor  [Ben Y. Zhao](http://people.cs.uchicago.edu/~ravenben/)
 	* Compare federal backdoor attacks with centralized backdoor attacks.
 	* Determine whether current defenses against centralized backdoor attacks are effective against federal backdoor attacks.
 
-* July 2020 -- present : [**Coded Computation across eterogeneous Workers**](http://network.ee.tsinghua.edu.cn/niulab/)  Tsinghua University
+* July 2020 -- present : [**Coded Computation across heterogeneous Workers**](http://network.ee.tsinghua.edu.cn/niulab/)  Tsinghua University
   * Advisor: PhD Candidate [Yuxuan Sun](http://network.ee.tsinghua.edu.cn/niulab/?p=2578)
 	* Consider introducing a queue system based on heterogeneous coded computation across heterogeneous workers
 	* Consider how much more computing resources data coding consumes
@@ -38,11 +32,16 @@ redirect_from:
 		assignment and resource allocation problem to max-min allocation by deriving its optimality condition. A greedy algorithm
 		is proposed accordingly.
 
-* August 2021 -- Present: **Stealing parameters from semi-supervised learning**  Helmholtz Center for Information Security
+* August 2021 -- November 2021: **Stealing parameters from semi-supervised learning**  Helmholtz Center for Information Security
   * Advisor: Professor [Yang Zhang](https://yangzhangalmo.github.io/)
 	* Consider the influence of different steal methods on different semi-supervise learning
 	* Analyze the effects of data augmentation, loss function and data distributions on model stealing
 	* Analyze the different importance of label and unlabel data in model stealing of semi-supervised learning
+ 
+* September 2024 -- Present: **Protecting machine learning models from information leakage in edge-device deployments** UCLA
+  * Advisor: Professor [Nader Sehatbakhsh](https://ssysarch.ee.ucla.edu/nader/)
+  * Addressed a critical security gap in on-device AI, demonstrating that TEE-shielded DNN partitioning can still leak information under large query budgets;
+  * Developed an innovative method based on Fisher-information and LoRA that effectively blocks information leakage while maintaining full accuracy for authorized users.
 
 ## Publications
 * Fan Zhang, Yuxuan Sun, Sheng Zhou, Coded Computation over Heterogeneous Workers with Random Task Arrivals, in **IEEE Communications Letters**, 2021.
@@ -66,6 +65,3 @@ redirect_from:
   * Write code to control the robot to avoid obstacles, cross the gully, identify traps and identify traffic lights.Simultaneously control the robot's steering gear to adjust the motion
   * Won the 3'rd Place Award and the Best Performance Award
 
-  * Python, C/C++, MATLAB, Verilog, HTML
-* Tools and Frameworks
-  * LaTeX, PyTorch, TensorFlow, Keras
