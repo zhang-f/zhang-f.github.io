@@ -11,41 +11,21 @@ redirect_from:
 - **Ph.D. student, Electrical and Computer Engineering**, UCLA. Advisor: Professor [Nader Sehatbakhsh](https://ssysarch.ee.ucla.edu/nader/).
 - **Bachelor’s degree, Electronic Engineering**, Tsinghua University. Advisor: Professor [Sheng Zhou](http://network.ee.tsinghua.edu.cn/shengzhou/).
 
-## Research Experience
+## Industry Experience
 
-* July 2019 -- March 2020: [**Distributed Coded Computation and Edge Learning**](http://network.ee.tsinghua.edu.cn/niulab/)  Tsinghua University
-  * Advisor: Professor [Sheng Zhou](http://network.ee.tsinghua.edu.cn/shengzhou/)
-  * Considered network structure on the basis of distributed network.Proved that special network structure can effectively reduce the communication cost and reduce the influence of stragglers. Considered the minimum delay and minimum energy loss in a heterogeneous network with multiple base stations and multiple edge servers
-  * Build a distributed computing architecture on Amazon EC2 and conduct relevant experiments.
+### Google · CA, US
 
-* June 2020 -- September 2020: **Difference between Federated backdoor and centralized backdoor** UChicago
-  * Advisor: Neubauer Professor  [Ben Y. Zhao](http://people.cs.uchicago.edu/~ravenben/)
-	* Compare federal backdoor attacks with centralized backdoor attacks.
-	* Determine whether current defenses against centralized backdoor attacks are effective against federal backdoor attacks.
+*June 2026–Sep 2026 · Research topic: Multimodal Embodied Planning*
 
-* July 2020 -- present : [**Coded Computation across heterogeneous Workers**](http://network.ee.tsinghua.edu.cn/niulab/)  Tsinghua University
-  * Advisor: PhD Candidate [Yuxuan Sun](http://network.ee.tsinghua.edu.cn/niulab/?p=2578)
-	* Consider introducing a queue system based on heterogeneous coded computation across heterogeneous workers
-	* Consider how much more computing resources data coding consumes
+- Formulated granularity-conditioned procedural planning from egocentric videos, enabling intelligent agents to determine both when to intervene and what instructions to provide at different levels of task abstraction.
+- Developed EgoDual, a hierarchical benchmark comprising 7,017 dual-granularity queries across 93 egocentric videos, to evaluate intervention timing and next-step prediction at both subtask and action levels.
 
-* December 2020 -- June 2021: [**Coded computation across shared heterogeneous workers with communication delay**](http://network.ee.tsinghua.edu.cn/niulab/)  Tsinghua University
-  * Advisor: Professor [Sheng Zhou](http://network.ee.tsinghua.edu.cn/shengzhou/)
-	* Considering the randomness of communication and computation delays, we formulate a unified delay minimization problem for the joint allocation of computing 			power,communication bandwidth and task load
-	* Use Markov’s inequality to
-		simplify the problem, and transform the fractional worker
-		assignment and resource allocation problem to max-min allocation by deriving its optimality condition. A greedy algorithm
-		is proposed accordingly.
+### Minimax · Beijing, CN
 
-* August 2021 -- November 2021: **Stealing parameters from semi-supervised learning**  Helmholtz Center for Information Security
-  * Advisor: Professor [Yang Zhang](https://yangzhangalmo.github.io/)
-	* Consider the influence of different steal methods on different semi-supervise learning
-	* Analyze the effects of data augmentation, loss function and data distributions on model stealing
-	* Analyze the different importance of label and unlabel data in model stealing of semi-supervised learning
- 
-* September 2024 -- Present: **Protecting machine learning models from information leakage in edge-device deployments** UCLA
-  * Advisor: Professor [Nader Sehatbakhsh](https://ssysarch.ee.ucla.edu/nader/)
-  * Addressed a critical security gap in on-device AI, demonstrating that TEE-shielded DNN partitioning can still leak information under large query budgets;
-  * Developed an innovative method based on Fisher-information and LoRA that effectively blocks information leakage while maintaining full accuracy for authorized users.
+*Infra Group · June 2024–Sep 2024 · Research topic: LLM Quantization*
+
+- Used the vLLM framework to run W4A8 model quantization experiments and evaluate performance before and after quantization.
+- Applied SmoothQuant to enable efficient quantization.
 
 ## Publications
 
