@@ -50,7 +50,9 @@ redirect_from:
 
 ## Publications
 
+<div class="publication-container" markdown="0">
 {% include swiss-publications.html %}
+</div>
 
 ## Competitions and Awards
 
