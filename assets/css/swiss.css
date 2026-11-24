@@ -33,6 +33,7 @@ a:focus-visible { outline: 2px solid var(--ink); outline-offset: 4px; }
 .hero { padding: 64px 0 29px; display: flex; align-items: baseline; gap: 25px; flex-wrap: wrap; }
 .hero h1 { font-size: clamp(29px, 3.6vw, 42px); font-weight: 400; letter-spacing: -.055em; line-height: 1.12; margin: 0; white-space: nowrap; }
 .hero .family { font-weight: 650; }
+.name-strawberry { width: 1.08em; height: auto; margin-left: .12em; vertical-align: -.2em; image-rendering: pixelated; }
 .subtitle { font-size: 16px; line-height: 1.5; letter-spacing: -.01em; margin: 0; color: var(--muted); }
 .intro { display: grid; grid-template-columns: 1.8fr 1fr; gap: 12%; align-items: start; margin: 0 0 78px; }
 .intro .copy { max-width: 660px; font-size: 19px; line-height: 1.65; }
