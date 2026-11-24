@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "BeiJing-CN"
+locale                   : "en-US"
 title                    : "Fan Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Fan Zhang"
-description              : &description "personal description"
+description              : &description "Fan Zhang's academic homepage: research in machine learning systems, privacy, security, and coded computation."
 url                      : https://zhang-f.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhang-f/zhang-f.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Fan Zhang"
   avatar           : "profile.jpg"
   #bio              : "Your biography for the left-hand sidebar"
-  location         : "BeiJing-CN"
+  location         :
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"

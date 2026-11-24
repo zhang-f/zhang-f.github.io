@@ -1,0 +1,30 @@
+- title: "FILOsofer: A TEE-Shielded DNN Partitioning Framework Based on Fisher Information-Guided LoRA Obfuscation"
+  authors: [Fan Zhang, Ziqi Zhang, Hossein Khalili, Neiro Cabrera, Jonathan Xue, Nader Sehatbakhsh]
+  venue: NeurIPS
+  year: 2026
+  links: []
+- title: "Protecting the 'Stop Using My Data' Right through Blockchain-assisted Evidence Generation"
+  authors: [Fan Zhang, Peng Liu]
+  venue: arXiv preprint
+  year: 2024
+  links:
+    - label: arXiv
+      url: https://arxiv.org/pdf/2406.17694
+- title: Coded Computation across Shared Heterogeneous Workers with Communication Delay
+  authors: [Yuxuan Sun, Fan Zhang, Junlin Zhao, Sheng Zhou, Zhisheng Niu, Deniz Gunduz]
+  venue: IEEE Transactions on Signal Processing
+  year: 2022
+  links:
+    - label: PDF
+      url: https://arxiv.org/pdf/2109.11246
+- title: Coded Computation over Heterogeneous Workers with Random Task Arrivals
+  authors: [Fan Zhang, Yuxuan Sun, Sheng Zhou]
+  venue: IEEE Communications Letters
+  year: 2021
+  links:
+    - label: PDF
+      url: /files/Coded_Computation_over_Heterogeneous_Workers_with_Random_Task_Arrivals.pdf
+- title: "Cloak of Invisibility: Real-Time Privacy-Preserving Volumetric Video Streaming"
+  authors: [Hossein Khalili, Philip Do, Brandan Bright, Fan Zhang, Alexander Vilesov, Kittipat Apicharttrisorn, Nader Sehatbakhsh]
+  venue: In submission
+  links: []

@@ -1,13 +1,18 @@
 ---
-layout: archive
+layout: swiss
 title: "CV"
 permalink: /cv/
-author_profile: true
 redirect_from:
   - /resume
 ---
 
-## Professional Experiences
+## Education
+
+- **Ph.D. student, Electrical and Computer Engineering**, UCLA. Advisor: Professor [Nader Sehatbakhsh](https://ssysarch.ee.ucla.edu/nader/).
+- **Master’s degree**, Penn State University. Advisor: Professor Peng Liu.
+- **Bachelor’s degree, Electronic Engineering**, Tsinghua University. Advisor: Professor [Sheng Zhou](http://network.ee.tsinghua.edu.cn/shengzhou/).
+
+## Research Experience
 
 * July 2019 -- March 2020: [**Distributed Coded Computation and Edge Learning**](http://network.ee.tsinghua.edu.cn/niulab/)  Tsinghua University
   * Advisor: Professor [Sheng Zhou](http://network.ee.tsinghua.edu.cn/shengzhou/)
@@ -44,12 +49,8 @@ redirect_from:
   * Developed an innovative method based on Fisher-information and LoRA that effectively blocks information leakage while maintaining full accuracy for authorized users.
 
 ## Publications
-* Fan Zhang, Yuxuan Sun, Sheng Zhou, Coded Computation over Heterogeneous Workers with Random Task Arrivals, in **IEEE Communications Letters**, 2021.
-* Yuxuan Sun, Fan Zhang, Junlin Zhao, Sheng Zhou, Zhisheng Niu, Deniz Gunduz, Coded Computation across Shared Heterogeneous
-	Workers with Communication Delay, in **IEEE Transactions on Signal Processing**, 2022.
-* Fan Zhang, Peng Liu, Protecting the 'Stop Using My Data' Right through Blockchain-assisted Evidence Generation, [Arxiv](https://arxiv.org/pdf/2406.17694)
-* Fan Zhang, Ziqi Zhang, Hossein Khalili, Neiro Cabrera, Jonathan Xue, Nader Sehatbakhsh, FILOsofer: A TEE-Shielded DNN Partitioning Framework Based on Fisher Information-Guided LoRA Obfuscation, In submission.
-* Hossein Khalili, Philip Do, Brandan Bright, Fan Zhang, Alexander Vilesov, Kittipat Apicharttrisorn, Nader Sehatbakhsh, Cloak of Invisibility: Real-Time Privacy-Preserving Volumetric Video Streaming, In submission.
+
+{% include swiss-publications.html %}
 
 ## Competitions and Awards
 

@@ -1,0 +1,12 @@
+{% assign previous_group = '' %}
+{% for publication in site.data.publications %}
+  {% assign group = publication.year | default: 'Manuscripts' %}
+  {% if group != previous_group %}
+    {% unless forloop.first %}</ol>{% endunless %}
+    <h2 class="year-heading">{{ group }}</h2>
+    <ol class="publication-list">
+    {% assign previous_group = group %}
+  {% endif %}
+  {% include swiss-publication.html publication=publication %}
+  {% if forloop.last %}</ol>{% endif %}
+{% endfor %}

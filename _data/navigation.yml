@@ -1,7 +1,10 @@
-# main links links
-main:    
-  - title: "CV"
-    url: /cv/
-   
-  - title: "Publications"
+# Navigation for legacy layouts; the Swiss layout renders the same links directly.
+main:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research/
+  - title: Publications
     url: /publications/
+  - title: CV
+    url: /cv/
