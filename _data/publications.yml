@@ -1,8 +1,40 @@
-- title: "FILOsofer: A TEE-Shielded DNN Partitioning Framework Based on Fisher Information-Guided LoRA Obfuscation"
+- title: "FILOsofer: A TEE-Shielded Model Partitioning Framework Based on Fisher Information-Guided LoRA Obfuscation"
   authors: [Fan Zhang, Ziqi Zhang, Hossein Khalili, Neiro Cabrera, Jonathan Xue, Nader Sehatbakhsh]
   venue: NeurIPS
   year: 2026
   links: []
+- title: "ProbeAct: Probe-Guided Training-Free Failure Recovery in Vision-Language-Action Models"
+  authors: [Fan Zhang, Seongbin Park, Baharan Mirzasoleiman, Shariar Talebi, Nader Sehatbakhsh]
+  venue: arXiv preprint
+  year: 2026
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2606.09740
+- title: "Your Model Already Knows: Attention-Guided Safety Filter for Vision-Language-Action Models"
+  authors: [Seongbin Park, Fan Zhang, Baharan Mirzasoleiman, Shahriar Talebi, Nader Sehatbakhsh]
+  venue: arXiv preprint
+  year: 2026
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2606.09749
+- title: "When One Frame Slips, the Others Have Its Back: A Latency-First Multi-Frame Video Object Masking"
+  authors: [Hossein Khalili, Fan Zhang, Kittipat Apicharttrisorn, Nader Sehatbakhsh]
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  year: 2026
+  links:
+    - label: PDF
+      url: https://ssysarch.ee.ucla.edu/files/26_MultiframeMasking_IROS.pdf
+    - label: Code
+      url: https://github.com/ssysarch/MBAM
+    - label: Slides
+      url: https://ssysarch.ee.ucla.edu/assets/presentations/mbam.pdf
+- title: "Adaptive Safety Probing for Resource-Efficient Vision-Language-Action Models"
+  authors: [Seongbin Park, Fan Zhang, Hossein Khalili, Nader Sehatbakhsh]
+  venue: AdaptFM @ ICML
+  year: 2026
+  links:
+    - label: Paper
+      url: https://openreview.net/forum?id=LPomBkh92H
 - title: "Protecting the 'Stop Using My Data' Right through Blockchain-assisted Evidence Generation"
   authors: [Fan Zhang, Peng Liu]
   venue: arXiv preprint
@@ -24,7 +56,3 @@
   links:
     - label: PDF
       url: /files/Coded_Computation_over_Heterogeneous_Workers_with_Random_Task_Arrivals.pdf
-- title: "Cloak of Invisibility: Real-Time Privacy-Preserving Volumetric Video Streaming"
-  authors: [Hossein Khalili, Philip Do, Brandan Bright, Fan Zhang, Alexander Vilesov, Kittipat Apicharttrisorn, Nader Sehatbakhsh]
-  venue: In submission
-  links: []

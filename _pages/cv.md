@@ -9,7 +9,6 @@ redirect_from:
 ## Education
 
 - **Ph.D. student, Electrical and Computer Engineering**, UCLA. Advisor: Professor [Nader Sehatbakhsh](https://ssysarch.ee.ucla.edu/nader/).
-- **Master’s degree**, Penn State University. Advisor: Professor Peng Liu.
 - **Bachelor’s degree, Electronic Engineering**, Tsinghua University. Advisor: Professor [Sheng Zhou](http://network.ee.tsinghua.edu.cn/shengzhou/).
 
 ## Research Experience

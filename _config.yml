@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fan Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Fan Zhang"
-description              : &description "Fan Zhang's academic homepage: research in machine learning systems, privacy, security, and coded computation."
+description              : &description "Fan Zhang's academic homepage: research in machine learning, embedded systems and robotics."
 url                      : https://zhang-f.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhang-f/zhang-f.github.io"
@@ -86,7 +86,7 @@ author:
   location         :
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar     : "https://scholar.google.com/citations?user=Z1lpNoEAAAAJ"
   email            : "zfdaidai@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
